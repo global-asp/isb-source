@@ -1,13 +1,13 @@
 # Taan giidii sangee uu iijang
 
 ##
-Taan giidii sk’inhlagang.
+Taan giidii skinaang.
 
 ##
 Taan giidii kil ’laagang.
 
 ##
-Gyaanswee ’angaa Taan giidii gyaandagang.
+Gyaansgwee angaa Taan giidii gyaandagang ḵaats’aang.
 
 ##
 Taan giidii x̱angang dlangang.
@@ -16,34 +16,34 @@ Taan giidii x̱angang dlangang.
 Sangaay gin taagangs Taan giidii taagang.
 
 ##
-Busgee aa.uu Taan giidii iijang.
+Busgee gwaa.uu Taan giidii x̱anjuugang.
 
 ##
-Taan giidii gin sḵ’adang.
+Taan giidii gin sḵ’adaang.
 
 ##
-Taan giidii k’ay taagang.
+Taan giidii tuuhlgee angaa taagang.
 
 ##
-Taan giidii naangang.
+Taan giidii náangang.
 
 ##
-Taan giidii ḵaagang.
+Taan giidii an t’aayaang.
 
 ##
-Nee ’angaa Taan giidii aa ’ll ḵaatlaagang.
+Nee angaa Taan giidii guu kaatl’aagang.
 
 ##
-Taan giidee taawee taagang.
+Sangyaas táawee Taan giidii táagang.
 
 ##
-Taan giidii ts’angang hlḵ’unang.
+Taan giidii ts’angang hlk’unángang.
 
 ##
-Gin x̱edguu tl’a ḵ’ahgangs angaa Taan giidii gyaandang.
+Taan giidii gin xedguu tl’a k’ahgangs G̱ii angaa ḵats’aang.
 
 ##
-Taan giidii ḵ’agang.
+Taan giidii ḵ’adiyaang.
 
 ##
 * License: [CC BY-NC-SA]

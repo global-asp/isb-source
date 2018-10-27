@@ -4,76 +4,76 @@
 Ḵ’indleelgang.
 
 ##
-Ayaad ḵwiigaagang isgyaan ts’i guuwang, hanuu awang suugang.
+“Aayaad uu ḵwiigaagang isgyaan ts’i guuwang,” hin uu awaa suugang.
 
 ##
-Ḵ’uudaatsee isgyaan st’asgee ’angaa hl gyaandang.
+Ḵ’uudaats’ee isgyaan st’asgee ḵ’ajaa angaa Hl gyaandang.
 
 ##
-Ak’yaasii t’alang naangḵasaang!
+Akyaasii t’alang náangḵasaang!
 
 ##
-Ḵ’inad gaagang.
+Ḵ’ínadgaagang.
 
 ##
-Ayaad ḵ’iinang isgyaan G̱uulaang awang suugang.
+Akyaasii aayaad uu sangee ’laagang.” hin uu awaa suugang.
 
 ##
-Bathing suit isgyaan sandalsgee angaa hl gyaandang.
+Bathing suit isgyaan sandals angaa hl gyaandaang.
 
 ##
-Ak’yaasii t’alang naangḵasaang!
+Akyaasii t’alang náangḵasaang!
 
 ##
-Chaanuudgeelgang.
+Tsaanuudgeelgang.
 
 ##
-Ak’yaasii G̱uulang isgyaan t’ajuugang hanuu awang suugang.
+“Akyaasii G̱uulang isgyaan t’ajuugang,” hin uu awang suugang.
 
 ##
-Nang ḵaystiiyas isgyaan st’asgee angaa hl gyaandang.
+Nang ḵaystiiyas isgyaan st’asgee angaa Hl gyáandaang.
 
 ##
-Ak’yaasii t’alang naangḵasaang!
+Akyaasii t’alang náangḵasaang!
 
 ##
 Sangaagang.
 
 ##
-Ayaad taadang isgyaan t’aaw guuwang, hanuu awang suugang.
+“Akyaasii taadaang isgyaan t’aaw guuwang,” hin uu awang suugang.
 
 ##
-Ḵunaagasii ’angaa hl gyaandang,
+Ḵ’un naaguusii angaa Hl gyaandaang,
 
 ##
-isgyaan gyangswee ḵaahlii angaa hl gyaandang,
+isgyaan gyáansgwee ḵaahlii angaa Hl gyáandaang,
 
 ##
-isgyaan ḵunee ’angaa hl gyaandang,
+isgyaan ḵ’únee angaa Hl gyáandaang,
 
 ##
-isgyaan ḵ’uudaats’ ḵaahlii ’angaa hl gyaandang,
+isgyaan ḵ’uudaats’ ḵaahlii angaa Hl gyáandaang,
 
 ##
-isgyaan sdadx̱ildaawee ’angaa hl gyaandang,
+isgyaan st’ad xildaawee angaa Hl gyáandaang,
 
 ##
-isgyaan ḵ’uudaats’ee gangaa ’angaa hl gyaandang,
+isgyaan ḵ’uudaats’ee angaa Hl gyáandaang,
 
 ##
-isgyaan st’asgee ’angaa hl gyaandang,
+isgyaan st’asgee angaa Hl gyáandaang,
 
 ##
-isgyaan daajingee ’angaa hl gyaandang,
+isgyaan dajángee angaa Hl gyáandaang,
 
 ##
-isgyaan x̱elt’akangaa ’angaa hl gyaandang,
+isgyaan x̱íihl t’iigangaa angaa Hl gyáandaang,
 
 ##
-isgyaan stahl kunee ’angaa hl gyaandang,
+isgyaan stla hlkúngee angaa Hl gyáandaang,
 
 ##
-Ak’yaasii t’alang naangḵasaang!
+Akyaasii t’alang náangḵasaang!
 
 ##
 * License: [CC BY-NC-SA]
