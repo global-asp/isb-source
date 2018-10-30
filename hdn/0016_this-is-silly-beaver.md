@@ -16,13 +16,13 @@ Ts’ang giidii G̱anhlt’asgadang.
 Ts’ang giidii ga taagang.
 
 ##
-G̱antl’ Ts’ang giidii nilgang.
+Ts’ang giidii G̱antl’ nilgang.
 
 ##
-G̱aan X̱aw Ts’ang giidii nilgang.
+Ts’ang giidii G̱aan X̱aw nilgang.
 
 ##
-Lemon X̱aw Ts’ang giidii nilgang.
+Ts’ang giidii Lemon X̱aw nilgang.
 
 ##
 G̱aadaang nee gwii.uu ga Ts’ang giidii kilagang!
