@@ -16,16 +16,16 @@ Hlḵ’yaan ḵ’ust’aan skanst’aals G̱ant’askadang. G̱anhlt’asgat, 
 Moose ts’uujuu k’wiilsalanggang. K’wiilsalaahla, Moose ts’uujuu!
 
 ##
-Ts’ang ga taagang. Gam hl gin taa, Ts’ang!
+Ts’ang ‘iiwaans ga taagang.  Gam hl gin taa, Ts’ang ‘iiwaans!
 
 ##
 Porcupine ḵ’awgang.
 
 ##
-G̱uhlgaangwee gu ‘laagang.
+G̱uhlgaangwee ‘laa gudangee ‘laagang.
 
 ##
-K’asgat wee ‘adawang. Dalang ‘waadluwaan ḵaats’iihlaa.uu!
+K’asgat naangang wee ‘adawang. Dalang ‘waadluwaan ḵaats’iihlaa.uu!
 
 ##
 * License: [CC BY-NC-SA]
