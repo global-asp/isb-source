@@ -28,7 +28,7 @@ Sablii aa.uu iijang.
 Nuu ‘iiwaans, guusduu treasure chestgee G̱aa uu iijaa?
 
 ##
-Aa.uu ḵ’uudaats’ iiang.
+Aa.uu ḵ’uudaats’ iijang.
 
 ##
 Nuu ‘iiwaans, guustuu gin ḵ’aalaangs danee G̱aa uu iijaa?
