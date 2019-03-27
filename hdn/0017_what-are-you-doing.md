@@ -38,7 +38,7 @@ Gam gin tlaa.uu. G̱uhlgaangwee dii iijang.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Matty Flores
+* Illustration: Matty Flores, Ingrid Schechter
 * Translation: Jasḵwaan Bedard
 * Level: Level 1
 * Language: hdn

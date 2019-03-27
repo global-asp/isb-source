@@ -54,7 +54,7 @@ Nuu ‘iiwaans...
 ##
 * License: [CC BY-NC-SA]
 * Text: Lewis Kelly
-* Illustration: Luce Aurochs
+* Illustration: Luce Aurochs, Ingrid Schechter
 * Translation: Jasḵwaan Bedard
 * Level: Level 1
 * Language: hdn

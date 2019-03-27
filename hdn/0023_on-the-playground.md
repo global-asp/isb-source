@@ -30,7 +30,7 @@ K’asgat naangang wee ‘adawang. Dalang ‘waadluwaan ḵaats’iihlaa.uu!
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Ambi _______
+* Illustration: Ambi
 * Translation: Jasḵwaan Bedard
 * Level: Level 1
 * Language: hdn
