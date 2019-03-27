@@ -63,7 +63,7 @@ Voici l'horloge. C'est l'heure de retourner à la maison.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: ______
+* Illustration: Anonymous
 * Translation: Amalie Lambert
 * Level: Level 1
 * Language: fr

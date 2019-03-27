@@ -38,7 +38,7 @@ mōna kēkwān tētapiwin ōma nīna.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Matty Flores
+* Illustration: Matty Flores, Ingrid Schechter
 * Translation: Eileen McKay Thomas
 * Level: Level 1
 * Language: csw

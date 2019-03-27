@@ -38,6 +38,6 @@ Nothing. I am a chair.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Matty Flores
+* Illustration: Matty Flores, Ingrid Schechter
 * Level: Level 1
 * Language: en

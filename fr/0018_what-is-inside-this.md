@@ -54,7 +54,7 @@ Pieuvre futée...
 ##
 * License: [CC BY-NC-SA]
 * Text: Lewis Kelly
-* Illustration: Luce Aurochs
+* Illustration: Luce Aurochs, Ingrid Schechter
 * Translation: Amalie Lambert
 * Level: Level 1
 * Language: fr

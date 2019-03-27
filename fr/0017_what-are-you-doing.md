@@ -38,7 +38,7 @@ Je suis une chaise.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Matty Flores
+* Illustration: Matty Flores, Ingrid Schechter
 * Translation: Amalie Lambert
 * Level: Level 1
 * Language: fr

@@ -30,7 +30,7 @@ La récréation est terminée. Rentrez, tout le monde!
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Ambi _______
+* Illustration: Ambi
 * Translation: Amalie Lambert
 * Level: Level 1
 * Language: fr

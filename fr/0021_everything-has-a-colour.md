@@ -45,7 +45,7 @@ La nuit, le ciel est noir, et les étoiles sont blanches.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Michael ______
+* Illustration: Michael
 * Translation: Amalie Lambert
 * Level: Level 1
 * Language: fr

@@ -24,7 +24,7 @@ Pequeña Silla, ¿qué estás haciendo? Nada. Soy una silla.
 ##
 * License: [CC BY-NC-SA]
 * Text: Dave Prine
-* Illustration: Matty Flores
+* Illustration: Matty Flores, Ingrid Schechter
 * Level: 1
 * Translation: Anuschka van ´t Hooft
 * Language: es
