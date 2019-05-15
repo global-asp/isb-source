@@ -10,7 +10,7 @@ a través del bosque
 por arriba del cerro
 
 ##
-por debajo de la reja
+por debajo de la cerca
 
 ##
 por atrás del oso

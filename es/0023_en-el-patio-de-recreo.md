@@ -4,19 +4,19 @@
 ¡Es la hora del recreo!
 
 ##
-Pequeño Oso corre. ¡Corre, Pequeño Oso!
+Pequeño Oso está corriendo. ¡Corre, Pequeño Oso!
 
 ##
-Zorillo Sonso se sube. ¡Súbete, Zorrillo Sonso!
+Zorillo Sonso se está subiendo. ¡Súbete, Zorrillo Sonso!
 
 ##
-Incluso Rana Relajante brinca. ¡Brinca, Rana Relajante!
+Incluso Rana Relajante está brincando. ¡Brinca, Rana Relajante!
 
 ##
-Alce Pequeñito se columpia. ¡Colúmpiate, Alce Pequeñito!
+Alce Pequeñito se está columpiando. ¡Colúmpiate, Alce Pequeñito!
 
 ##
-Castor Trabajador come. ¡No comas eso, Castor Trabajador!
+Castor Trabajador está comiendo. ¡No comas eso, Castor Trabajador!
 
 ##
 Puerco espín Silencioso está sentado.
