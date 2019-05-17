@@ -1,10 +1,10 @@
-# Kauxai nunutsi
+# Kauxai Nunutsi
 
 ##
-Mestsirik+, waniu kauxai nuntsi...
+Mestsirik+, waniu Kauxai Nunutsi...
 
 ##
-K+yé epametsie nanutimake.
+K+yé ´epametsie nanutimake.
 
 ##
 Ne tsunam+k+kait+ni, ´e hanukatewawaku.
@@ -16,10 +16,10 @@ Yap+tá, kwinie anu tatewakaku.
 Shi anutewakaku.
 
 ##
-P+ti kwinimieme.
+Axe' tekedh ti k'adhpidh yan.
 
 ##
-M+k+ kwinie p+tix+ká.
+P+ti kwinimieme.
 
 ##
 Kwinie p+ tiu ha+t+.
@@ -31,15 +31,15 @@ P+ti kwinimieme.
 An+ari kem+nenitá.
 
 ##
-M+k+ p+t+´aix+
+M+k+ p+ti ´aix+.
 
 ##
-Papariutsi
+Papariutsi.
 
 ##
 * License: [CC BY-NC-SA]
 * Text: Matthew Kleywegt
 * Illustration: Luce Aurochs
 * Level: 2
-* Translation: Hermenegildo Rivera Eleoterio
+* Translation: Hermenegildo Hauritemai Rivera Eleoterio
 * Language: hch

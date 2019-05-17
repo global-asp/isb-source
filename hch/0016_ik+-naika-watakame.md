@@ -1,36 +1,36 @@
-# Ik+ naika watakame
+# Ik+ Naika Watakame
 
 ##
-Naika watame panutimakix+.
+Naika Watame panutimakix+.
 
 ##
-Naika watme putanautsax+.
+Naika Watame putanautsax+.
 
 ##
-Naika watame pa´hauwe.
+Naika Watame rakakame p+t+´harewe.
 
 ##
-Naika watame pa tsunawe.
+Naika Watame pa tsunawe.
 
 ##
-Naika watame, kwinie p+tiyukwaiwie.
+Naika Watame, kwinie p+tiyukwaiwie.
 
 ##
-Naika watame tsip+ka tiyuhariwie.
+Naika Watame tsip+ka tiyuhariwie.
 
 ##
-Naiwa watame, rakakame p+t+´harewe.
+Naiwa Watame, rakakame p+t+´harewe.
 
 ##
-Naika watame tsikari ´hayari p+´harewe.
+Naika Watame tsikari ´hayari p+´harewe.
 
 ##
-¡Naika watame p+ta xieni - ri!
+¡Naika Watame p+ta xieni - ri!
 
 ##
 * License: [CC BY-NC-SA]
 * Text: Matthew Kleywegt
 * Illustration: Cynthia Dovell
 * Level: 1
-* Translation: Hermenegildo Rivera Eleoterio
+* Translation: Hermenegildo Hauritemai Rivera Eleoterio
 * Language: hch
